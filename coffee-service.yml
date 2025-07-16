@@ -1,0 +1,6 @@
+  spring:
+    application:
+      name: coffee-service
+
+  coffee:
+    recommendation: "Next time, try an Iced Cappuccino!"
